@@ -3,7 +3,7 @@ A simple QR code generator made using python.
 
 You need to get an API key from ( https://api-ninjas.com/ ) , and add it in the code instead of "YOUR_API_KEY".
 
-To run this you need to run this in your terminal:
+To run this you need to run these in your terminal:
 
 ```pip install tkinter```
 
